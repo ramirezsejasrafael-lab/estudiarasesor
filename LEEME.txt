@@ -1,0 +1,9 @@
+AULA CRÉDITOS - ESTUDIO
+
+1. Extrae todo el ZIP en una carpeta.
+2. Abre index.html en tu navegador para estudiar desde una computadora.
+3. Puedes subir el contenido a un alojamiento web para acceder desde el celular.
+
+Incluye 67 diapositivas, el PDF original, búsqueda, favoritos, progreso, 11 ejemplos y 6 enlaces de YouTube.
+Los videos necesitan internet. El progreso se guarda en cada navegador.
+No muevas index.html fuera de su carpeta: las imágenes y el PDF utilizan rutas relativas.
